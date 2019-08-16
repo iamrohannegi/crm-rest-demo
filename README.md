@@ -1,4 +1,5 @@
 # CRM REST DEMO
+CRM web application that allows CRUD operations on the database using REST techniques. Built using Java, Hibernate, Spring and Jackson.
 
 ## Home Page (Description)
 ![1](https://user-images.githubusercontent.com/16450711/63172777-18604f80-c05c-11e9-9fa7-bf4cd8490e4b.PNG)
